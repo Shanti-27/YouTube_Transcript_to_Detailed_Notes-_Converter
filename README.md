@@ -58,7 +58,7 @@ d. The application uses Streamlit's interactive components (st.spinner, st.error
 
 # **Flow of Execution**
 
-1. Upon entering a YouTube video link and clicking the "Get Detailed Notes" button:
+**Upon entering a YouTube video link and clicking the "Get Detailed Notes" button:**
 
 a. The application extracts the video's transcript.
 
@@ -68,4 +68,5 @@ c. The model generates a summarized version of the transcript in detailed notes 
 
 d. Finally, the summarized content is displayed to the user under a "Detailed Notes" section.
 
-This project effectively combines the capabilities of Streamlit for web application development, YouTube's transcript API for data extraction, and advanced generative AI for content summarization, providing a valuable tool for users needing quick summaries of YouTube video content.
+
+**This project effectively combines the capabilities of Streamlit for web application development, YouTube's transcript API for data extraction, and advanced generative AI for content summarization, providing a valuable tool for users needing quick summaries of YouTube video content.**
